@@ -1,6 +1,6 @@
 //done by Krishna Kanth
 
-/** Write a program to create an xls file and update the file with Student info id, name marks and fee.*/
+/** Write a program to create an xls file and update the file with Student info id, name marks and fee. */
 
 import java.io.File;
 import java.io.FileOutputStream;
