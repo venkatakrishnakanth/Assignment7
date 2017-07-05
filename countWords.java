@@ -1,6 +1,6 @@
 //done by Krishna Kanth
 /**
- *  Identify number of words  in your file?*/
+ *  Identify number of words  in your file? */
 
 
 import java.io.BufferedReader;
