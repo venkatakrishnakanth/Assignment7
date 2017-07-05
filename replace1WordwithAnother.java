@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 // done by krishna Kanth
 
 /**
- * Write a logic to replace one word with another ?*/
+ * Write a logic to replace one word with another?*/
 public class replace1WordwithAnother {
 
 	public static void main(String[] args) {
