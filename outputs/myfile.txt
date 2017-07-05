@@ -1,0 +1,6 @@
+I have written this to my file.
+My name is Krishna Kanth.
+This is Seventh(7th) Homework on files.
+The same file will be used in another programs to count, and replace words.
+
+In 3rd Program, the word Seventh(7th) Homework will be replaced by seventh(7th) Homework 
