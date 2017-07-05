@@ -1,6 +1,6 @@
 /* Done by Krishna Kanth*/
 
-/** Write in to file using BufferedWriter?*/
+/** Write in to file using BufferedWriter? */
 
 
 import java.io.BufferedWriter;
